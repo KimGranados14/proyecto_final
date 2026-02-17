@@ -1,0 +1,24 @@
+ALGORITMO DE COTIZACIÓN DE SEGURO
+
+Inicio
+
+1. Mostrar mensaje solicitando el nombre del asegurado.
+2. Si el usuario ingresa la palabra "Salir", finalizar el programa.
+3. Solicitar la edad del asegurado.
+4. Preguntar si el asegurado está casado.
+5. Si está casado, solicitar la edad del cónyuge.
+6. Preguntar si tiene hijos.
+7. Si tiene hijos, solicitar la cantidad.
+8. Solicitar la cantidad de propiedades que posee.
+9. Solicitar el salario del asegurado.
+10. Inicializar el total de recargos en cero.
+11. Calcular el recargo según la edad del asegurado.
+12. Calcular el recargo según la edad del cónyuge si aplica.
+13. Calcular el recargo por la cantidad de hijos.
+14. Calcular el recargo por la cantidad de propiedades.
+15. Calcular el recargo por ingresos.
+16. Sumar todos los recargos al precio base.
+17. Mostrar el total de recargos y el precio final del seguro.
+18. Volver al paso 1 para realizar una nueva cotización.
+
+Fin

@@ -1,0 +1,17 @@
+DESCRIPCIÓN DEL PROBLEMA
+
+El problema consiste en desarrollar un programa que permita calcular la
+cotización de un seguro para una persona, tomando en cuenta diferentes
+características del asegurado.
+
+El sistema debe solicitar información como la edad, estado civil, edad del
+cónyuge en caso de estar casado, cantidad de hijos, cantidad de propiedades
+y el salario del asegurado.
+
+A partir de estos datos, el programa debe aplicar recargos específicos
+según rangos de edad, número de hijos, propiedades e ingresos, sumando
+todos los recargos al precio base del seguro.
+
+Además, el programa debe permitir realizar varias cotizaciones, repitiendo
+el proceso hasta que el usuario decida finalizar escribiendo la palabra
+“Salir”.
