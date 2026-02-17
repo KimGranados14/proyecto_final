@@ -1,0 +1,19 @@
+PROYECTO FINAL 
+
+1.Falta de conversión de datos
+Algunos valores ingresados no eran convertidos correctamente de texto a número, lo que podía generar errores en los cálculos.
+2. Variables sin inicializar
+La variable cantidad_hijos no estaba inicializada ni convertida a número antes de ser utilizada.
+3. Aunque el algoritmo solicita la edad del cónyuge y convierte el valor a número, nunca se usa esa información para calcular un recargo, por lo que no afecta el precio final
+Resultados
+
+Luego de aplicar las correcciones, el algoritmo:
+
+•	Calcula correctamente los recargos según las condiciones establecidas.
+•	Genera un recargo total preciso.
+•	Muestra el precio final correcto de la cotización del seguro.
+•	Funciona de manera estable ante diferentes respuestas del usuario.
+
+El análisis del algoritmo permitió identificar errores comunes en la programación, como la falta de validación de datos, inicialización de variables y acumulación de resultados.
+Gracias a las correcciones aplicadas, el algoritmo final cumple con los requerimientos planteados y demuestra el uso adecuado de estructuras condicionales, manejo de variables y lógica de programación en JavaScript.
+Este ejercicio me permitió reforzar conceptos fundamentales para la resolución de problemas mediante algoritmos.
